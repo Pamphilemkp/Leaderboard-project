@@ -1,0 +1,72 @@
+
+.container {
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contents {
+  display: flex;
+  align-items: baseline;
+  gap: 100px;
+  justify-content: space-around;
+  padding: 20px;
+  width: 60vw;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+.table-part {
+  width: 30vw;
+}
+
+table {
+  border: solid 1px black;
+  width: 25vw;
+  padding-left: 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 15px;
+  width: 20vw;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 15px;
+}
+
+#submit {
+  width: 60px;
+  align-self: flex-end;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 30vw;
+}
+
+tr {
+  display: flex;
+  gap: 5px;
+}
+
+td {
+  padding: 5px 0;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(154, 157, 158, 0.3);
+}
+
