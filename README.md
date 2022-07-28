@@ -3,7 +3,7 @@
 # LeaderBoard
 
 > Description the project.
-This project allows a user to add the name and the score of a game and  the data entered will be preserved forever in the API and will be accessible when he needs using the device of his choice via internet!
+This project allows a user to add the name and the score of a game and the data entered will be preserved forever in the API and will be accessible when he needs using the device of his choice via the internet!
 
 
 ## Built With
