@@ -4,6 +4,8 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background-color: #4d8ced;
+  background-image: linear-gradient(225deg, #4d8ced 0%, #a79dab 33%, #222250 66%, #4fd0de 100%);
 }
 
 .contents {
