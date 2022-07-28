@@ -1,6 +1,15 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
 
 .container {
   padding: 0 15px;
+  height: 100vh;
+  width: 100vw;
+  color: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -62,6 +71,7 @@ nav {
 tr {
   display: flex;
   gap: 5px;
+  color: rgb(243, 235, 161);
 }
 
 td {
@@ -69,5 +79,73 @@ td {
 }
 
 tr:nth-child(even) {
-  background-color: rgba(154, 157, 158, 0.3);
+  background-color: rgba(76, 92, 235, 0.3);
+}
+
+.refresh,
+#submit {
+  background-color: #222250;
+  color: antiquewhite;
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+  }
+
+  .container {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  .contents {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+    width: 100vw;
+    height: 70vh;
+  }
+
+  h1 {
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+    height: 10vh;
+    margin: 0;
+  }
+
+  table {
+    border: solid 1px black;
+    width: 80vw;
+    padding-left: 0;
+  }
+
+  tbody {
+    overflow-y: scroll;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+    width: 80vw;
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100vw;
+  }
 }
