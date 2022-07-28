@@ -18,6 +18,8 @@ form.addEventListener('submit', (e) => {
     score.value = '';
   }
 });
-document.addEventListener('DOMContentLoaded', display);
 
-refresh.addEventListener('click', display);
+document.addEventListener('DOMContentLoaded', display);
+refresh.addEventListener('click', () => {
+  window.location.reload();
+});
