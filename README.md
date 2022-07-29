@@ -17,7 +17,7 @@ This project allows a user to add the name and the score of a game and the data 
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://pamphilemkp.github.io/Leaderboard-project/)
 
 
 ## To get a local copy up and running:
@@ -45,7 +45,7 @@ Any kind of browser.
 
 ### Deployment
 
-
+[See project here](https://pamphilemkp.github.io/Leaderboard-project/)
 
 ## Authors
 
