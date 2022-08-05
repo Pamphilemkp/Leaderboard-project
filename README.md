@@ -52,8 +52,8 @@ Any kind of browser.
 👤 **Author**
 
    - GitHub:[@pamphilemkp](https://github.com/pamphilemkp)
-   - Twitter:[@pamphilemkp](https://github.com/PamphileMusonda)
-   - LinkedIn:[@pamphilemkp](https://github.com/PamphileMusonda-2bb8a9237)
+   - Twitter:[@pamphilemkp](https://Twitter.com/PamphileMusonda)
+   - LinkedIn:[@pamphilemkp](https:/LinkedIn.com/PamphileMusonda-2bb8a9237)
 
 ## 🤝 Contributing
 
